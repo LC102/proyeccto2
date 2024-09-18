@@ -1,0 +1,19 @@
+#background-styles{
+    /*background-image: url(/Image/pedro.webp), url(Image/fondo2.gif);
+    background-position: right bottom, left top;
+    background-repeat:no-repeat;
+    color:antiquewhite;
+    padding: 300px;*/
+
+    background: url(/Image/pedro.webp) right bottom no-repeat, url(Image/fondo2.gif) left top repeat;
+    padding: 300px;
+    color:aliceblue;
+
+}
+.border{
+    border: 15px solid transparent;
+    padding: 15px;
+    border-image: url(Image/fl3o.jpg) 30 round;
+    color: black;
+    
+}
